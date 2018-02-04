@@ -1,0 +1,8 @@
+C:\Users\flaub\Documents\Projetos\EFConsoleApp\EFConsoleApp\bin\Debug\netcoreapp2.0\EFConsoleApp.deps.json
+C:\Users\flaub\Documents\Projetos\EFConsoleApp\EFConsoleApp\bin\Debug\netcoreapp2.0\EFConsoleApp.runtimeconfig.json
+C:\Users\flaub\Documents\Projetos\EFConsoleApp\EFConsoleApp\bin\Debug\netcoreapp2.0\EFConsoleApp.runtimeconfig.dev.json
+C:\Users\flaub\Documents\Projetos\EFConsoleApp\EFConsoleApp\bin\Debug\netcoreapp2.0\EFConsoleApp.dll
+C:\Users\flaub\Documents\Projetos\EFConsoleApp\EFConsoleApp\obj\Debug\netcoreapp2.0\EFConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\flaub\Documents\Projetos\EFConsoleApp\EFConsoleApp\obj\Debug\netcoreapp2.0\EFConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\flaub\Documents\Projetos\EFConsoleApp\EFConsoleApp\obj\Debug\netcoreapp2.0\EFConsoleApp.AssemblyInfoInputs.cache
+C:\Users\flaub\Documents\Projetos\EFConsoleApp\EFConsoleApp\obj\Debug\netcoreapp2.0\EFConsoleApp.AssemblyInfo.cs
