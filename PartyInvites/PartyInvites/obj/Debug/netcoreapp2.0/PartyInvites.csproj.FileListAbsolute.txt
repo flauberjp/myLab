@@ -1,0 +1,11 @@
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojResolveAssemblyReference.cache
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\flaub\Documents\Projetos\myLab\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
