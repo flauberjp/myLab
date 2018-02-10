@@ -1,0 +1,11 @@
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\flaub\Documents\Projetos\myLab\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
