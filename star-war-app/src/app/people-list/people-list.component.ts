@@ -4,27 +4,26 @@ import { PeopleService } from '../people.service';
 
 @Component({
   selector: 'app-people-list',
-  template: `
-    <ul>
-      <li *ngFor="let person of people">
-        {{person.name}}
-      </li>
-    </ul>
-  `,
+  templateUrl: './people-list.component.html',
   styleUrls: ['./people-list.component.css']
 })
 
 export class PeopleListComponent implements OnInit {
   people: Person[] = [];
+  selectedPerson: Person;
 
   constructor(private peopleService: PeopleService) { 
   //constructor(@Inject("IPeopleService")private _peopleService: IPeopleService) { 
 
   }
 
+  selectPerson(person: Person) {
+    this.selectedPerson = person;
+  }
+
   ngOnInit() {
       //this.people = _peopleService.getAll();  
-      this.people = peopleService.getAll();
+      this.people = this.peopleService.getAll();
   }
 
 }
