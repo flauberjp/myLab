@@ -1,0 +1,11 @@
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\netcoreapp2.0\CS_Using_HashSet.deps.json
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\netcoreapp2.0\CS_Using_HashSet.runtimeconfig.json
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\netcoreapp2.0\CS_Using_HashSet.runtimeconfig.dev.json
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\netcoreapp2.0\CS_Using_HashSet.dll
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\netcoreapp2.0\CS_Using_HashSet.pdb
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\netcoreapp2.0\CS_Using_HashSet.csprojResolveAssemblyReference.cache
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\netcoreapp2.0\CS_Using_HashSet.csproj.CoreCompileInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\netcoreapp2.0\CS_Using_HashSet.AssemblyInfoInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\netcoreapp2.0\CS_Using_HashSet.AssemblyInfo.cs
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\netcoreapp2.0\CS_Using_HashSet.dll
+C:\Users\flaub\Documents\Projetos\myLab\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\netcoreapp2.0\CS_Using_HashSet.pdb
