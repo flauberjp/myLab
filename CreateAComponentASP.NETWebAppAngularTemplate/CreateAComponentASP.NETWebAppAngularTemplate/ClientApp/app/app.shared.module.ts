@@ -9,6 +9,7 @@ import { NavMenuComponent } from './components/navmenu/navmenu.component';
 import { HomeComponent } from './components/home/home.component';
 import { FetchDataComponent } from './components/fetchdata/fetchdata.component';
 import { CounterComponent } from './components/counter/counter.component';
+import { ReverseCounterComponent } from './components/reverse-counter/reverse-counter.component';
 
 @NgModule({
     declarations: [
@@ -16,7 +17,8 @@ import { CounterComponent } from './components/counter/counter.component';
         NavMenuComponent,
         CounterComponent,
         FetchDataComponent,
-        HomeComponent
+        HomeComponent,
+        ReverseCounterComponent
     ],
     imports: [
         CommonModule,
@@ -26,7 +28,8 @@ import { CounterComponent } from './components/counter/counter.component';
             { path: '', redirectTo: 'home', pathMatch: 'full' },
             { path: 'home', component: HomeComponent },
             { path: 'counter', component: CounterComponent },
-            { path: 'fetch-data', component: FetchDataComponent },
+            { path: 'reverse-counter', component: ReverseCounterComponent },
+            { path: 'fetch-data', component: FetchDataComponent },            
             { path: '**', redirectTo: 'home' }
         ])
     ]
