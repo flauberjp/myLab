@@ -1,0 +1,1 @@
+Reference: [ng : Add New Component to .NET CORE APA TEMPLATE](https://programmium.wordpress.com/2017/08/18/ng-add-new-component-to-net-core-spa-template/)

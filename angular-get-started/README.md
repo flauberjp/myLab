@@ -1,1 +1,1 @@
-Reference: [Getting Started With Angular 2 Step by Step: 1 - Your First Component](https://www.barbarianmeetscoding.com/blog/2016/03/25/getting-started-with-angular-2-step-by-step-1-your-first-component/)
+Reference: [Angular2-step-by-step](https://www.barbarianmeetscoding.com/blog/categories/angular2-step-by-step/) by Jaime González García
