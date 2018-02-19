@@ -1,0 +1,1 @@
+Reference: [Angular 2 HTTP Requests with Observables](https://scotch.io/tutorials/angular-2-http-requests-with-observables)
