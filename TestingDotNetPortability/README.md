@@ -1,0 +1,1 @@
+Reference: (How to Build Cross-Platform .NET Core Apps)[https://stackify.com/cross-platform-net-core-apps/]
