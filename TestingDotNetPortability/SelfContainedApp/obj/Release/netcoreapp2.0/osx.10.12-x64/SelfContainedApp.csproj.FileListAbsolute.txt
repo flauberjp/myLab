@@ -1,0 +1,10 @@
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\osx.10.12-x64\libhostpolicy.dylib
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\osx.10.12-x64\libhostfxr.dylib
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\osx.10.12-x64\SelfContainedApp
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\osx.10.12-x64\SelfContainedApp.deps.json
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\osx.10.12-x64\SelfContainedApp.runtimeconfig.json
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\osx.10.12-x64\SelfContainedApp.runtimeconfig.dev.json
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\osx.10.12-x64\SelfContainedApp.dll
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\obj\Release\netcoreapp2.0\osx.10.12-x64\SelfContainedApp.csproj.CoreCompileInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\obj\Release\netcoreapp2.0\osx.10.12-x64\SelfContainedApp.AssemblyInfoInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\obj\Release\netcoreapp2.0\osx.10.12-x64\SelfContainedApp.AssemblyInfo.cs

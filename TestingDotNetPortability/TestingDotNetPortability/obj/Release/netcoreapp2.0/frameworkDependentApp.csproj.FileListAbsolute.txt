@@ -1,0 +1,11 @@
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\bin\Release\netcoreapp2.0\frameworkDependentApp.deps.json
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\bin\Release\netcoreapp2.0\frameworkDependentApp.runtimeconfig.json
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\bin\Release\netcoreapp2.0\frameworkDependentApp.runtimeconfig.dev.json
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\bin\Release\netcoreapp2.0\frameworkDependentApp.dll
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\bin\Release\netcoreapp2.0\frameworkDependentApp.pdb
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\obj\Release\netcoreapp2.0\frameworkDependentApp.csprojResolveAssemblyReference.cache
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\obj\Release\netcoreapp2.0\frameworkDependentApp.csproj.CoreCompileInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\obj\Release\netcoreapp2.0\frameworkDependentApp.AssemblyInfoInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\obj\Release\netcoreapp2.0\frameworkDependentApp.AssemblyInfo.cs
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\obj\Release\netcoreapp2.0\frameworkDependentApp.dll
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\TestingDotNetPortability\obj\Release\netcoreapp2.0\frameworkDependentApp.pdb

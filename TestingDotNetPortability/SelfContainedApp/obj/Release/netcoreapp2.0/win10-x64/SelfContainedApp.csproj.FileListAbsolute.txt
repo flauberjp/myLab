@@ -1,0 +1,11 @@
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\win10-x64\SelfContainedApp.exe
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\win10-x64\SelfContainedApp.deps.json
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\win10-x64\SelfContainedApp.runtimeconfig.json
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\win10-x64\SelfContainedApp.runtimeconfig.dev.json
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\bin\Release\netcoreapp2.0\win10-x64\SelfContainedApp.dll
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\obj\Release\netcoreapp2.0\win10-x64\SelfContainedApp.csprojResolveAssemblyReference.cache
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\obj\Release\netcoreapp2.0\win10-x64\SelfContainedApp.csproj.CoreCompileInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\obj\Release\netcoreapp2.0\win10-x64\SelfContainedApp.AssemblyInfoInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\TestingDotNetPortability\SelfContainedApp\obj\Release\netcoreapp2.0\win10-x64\SelfContainedApp.AssemblyInfo.cs
