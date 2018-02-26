@@ -1,0 +1,35 @@
+{
+    "short_name":"IObjectApp",
+    "name":"I Object App",
+    "start_url":"/",
+    "theme_color":"#f48c5b",
+    "background_color":"#ffffff",
+    "display":"standalone",
+    "orientation":"portrait",
+    "icons":[
+      {
+        "src":"/assets/images/icons/apple-touch-icon.png",
+        "type":"image/png"
+      },
+      {
+        "src":"/assets/images/icons/favicon-16x16.png",
+        "sizes":"16x16",
+        "type":"image/png"
+      },
+      {
+        "src":"/assets/images/icons/favicon-32x32.png",
+        "sizes":"32x32",
+        "type":"image/png"
+      },
+      {
+        "src":"/assets/images/icons/android-chrome-144x144.png",
+        "sizes":"144x144",
+        "type":"image/png"
+      },
+      {
+        "src":"/assets/images/icons/mstile-150x150.png",
+        "sizes":"150x150",
+        "type":"image/png"
+      }
+    ]
+  }
