@@ -1,0 +1,11 @@
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.deps.json
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.runtimeconfig.json
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.runtimeconfig.dev.json
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.dll
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.pdb
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.csprojResolveAssemblyReference.cache
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.csproj.CoreCompileInputs.cache
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.AssemblyInfoInputs.cache
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.AssemblyInfo.cs
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.dll
+C:\Users\flaub\Documents\Projetos\Pluralsight.aspNetCore.Auth.Web\Pluralsight.aspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.aspNetCore.Auth.Web.pdb
