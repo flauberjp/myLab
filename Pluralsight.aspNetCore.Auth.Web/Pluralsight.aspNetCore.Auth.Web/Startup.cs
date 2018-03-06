@@ -23,10 +23,13 @@ namespace Pluralsight.aspNetCore.Auth.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc(options =>
+            services.AddMvc(
+            /*options =>
             {
                 options.Filters.Add(new RequireHttpsAttribute());
-            });
+            }
+            */);
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -42,7 +45,7 @@ namespace Pluralsight.aspNetCore.Auth.Web
                 app.UseExceptionHandler("/Home/Error");
             }
 
-            app.UseRewriter(new RewriteOptions().AddRedirectToHttps(301, 443));
+            //app.UseRewriter(new RewriteOptions().AddRedirectToHttps(301, 443));
 
             app.UseStaticFiles();
 
