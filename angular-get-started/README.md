@@ -1,1 +1,1 @@
-Reference: [Angular2-step-by-step](https://www.barbarianmeetscoding.com/blog/categories/angular2-step-by-step/) by Jaime González García
+﻿Ref: [SPA Authentiction using OpenID Connect, Angular CLI and oidc-client](https://www.scottbrady91.com/Angular/SPA-Authentiction-using-OpenID-Connect-Angular-CLI-and-oidc-client)
