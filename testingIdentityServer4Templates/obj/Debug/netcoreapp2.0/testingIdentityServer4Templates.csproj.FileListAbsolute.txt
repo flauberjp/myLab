@@ -1,0 +1,12 @@
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\bin\Debug\netcoreapp2.0\testingIdentityServer4Templates.deps.json
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\bin\Debug\netcoreapp2.0\testingIdentityServer4Templates.runtimeconfig.json
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\bin\Debug\netcoreapp2.0\testingIdentityServer4Templates.runtimeconfig.dev.json
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\bin\Debug\netcoreapp2.0\testingIdentityServer4Templates.dll
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\bin\Debug\netcoreapp2.0\testingIdentityServer4Templates.pdb
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\obj\Debug\netcoreapp2.0\testingIdentityServer4Templates.csproj.CoreCompileInputs.cache
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\obj\Debug\netcoreapp2.0\testingIdentityServer4Templates.AssemblyInfoInputs.cache
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\obj\Debug\netcoreapp2.0\testingIdentityServer4Templates.AssemblyInfo.cs
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\obj\Debug\netcoreapp2.0\testingIdentityServer4Templates.dll
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\obj\Debug\netcoreapp2.0\testingIdentityServer4Templates.pdb
+C:\Users\Elmar\Documents\Projetos\myLab\testingIdentityServer4Templates\obj\Debug\netcoreapp2.0\testingIdentityServer4Templates.csprojResolveAssemblyReference.cache

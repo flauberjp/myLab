@@ -1,0 +1,70 @@
+2018-03-12 11:24:58.607 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-03-12 11:24:58.647 -03:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-03-12 11:24:58.649 -03:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-03-12 11:24:58.650 -03:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-03-12 11:24:58.650 -03:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-03-12 11:24:58.650 -03:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-03-12 11:25:44.054 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-03-12 11:25:44.097 -03:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-03-12 11:25:44.102 -03:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-03-12 11:25:44.103 -03:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-03-12 11:25:44.103 -03:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-03-12 11:25:44.105 -03:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-03-12 11:26:08.435 -03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-03-12 11:43:29.916 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-03-12 11:43:29.984 -03:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-03-12 11:43:29.987 -03:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-03-12 11:43:29.987 -03:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-03-12 11:43:29.987 -03:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-03-12 11:43:29.988 -03:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-03-12 11:44:09.370 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-03-12 11:44:09.417 -03:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-03-12 11:44:09.421 -03:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-03-12 11:44:09.421 -03:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-03-12 11:44:09.422 -03:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-03-12 11:44:09.422 -03:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-03-12 11:44:44.495 -03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-03-12 11:45:05.978 -03:00 [DBG] CORS request made for path: /account/login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2018-03-12 11:45:06.700 -03:00 [DBG] Augmenting SignInContext
+2018-03-12 11:45:06.702 -03:00 [DBG] Adding idp claim with value: local
+2018-03-12 11:45:06.702 -03:00 [DBG] Adding amr claim with value: pwd
+2018-03-12 11:45:06.703 -03:00 [DBG] Adding auth_time claim with value: 1520865906
+2018-03-12 11:45:06.719 -03:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-03-12 11:45:06.854 -03:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Username": "bob",
+  "SubjectId": "29f50332-f198-4037-82ce-a5837ea8c2d9",
+  "DisplayName": "bob",
+  "Endpoint": "UI",
+  "ActivityId": "0HLC84URERSTV:00000004",
+  "TimeStamp": "2018-03-12T14:45:06Z",
+  "ProcessId": 6932,
+  "LocalIpAddress": "::1:5000",
+  "RemoteIpAddress": "::1"
+}
+2018-03-12 11:45:06.878 -03:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-03-12 11:45:06.883 -03:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-03-12 11:45:46.696 -03:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-03-12 11:45:46.703 -03:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-03-12 11:45:50.409 -03:00 [DBG] CORS request made for path: /Account/Logout from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2018-03-12 11:45:50.411 -03:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-03-12 11:45:50.416 -03:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-03-12 11:45:50.450 -03:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2018-03-12 11:45:50.457 -03:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-03-12 11:45:50.460 -03:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2018-03-12 11:45:50.479 -03:00 [INF] {
+  "Name": "User Logout Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1002,
+  "SubjectId": "29f50332-f198-4037-82ce-a5837ea8c2d9",
+  "DisplayName": "Bob Smith",
+  "ActivityId": "0HLC84URERSTV:00000007",
+  "TimeStamp": "2018-03-12T14:45:50Z",
+  "ProcessId": 6932,
+  "LocalIpAddress": "::1:5000",
+  "RemoteIpAddress": "::1"
+}
