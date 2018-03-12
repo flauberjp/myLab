@@ -1,0 +1,11 @@
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\bin\Debug\netcoreapp2.0\MyIdentityServer4.deps.json
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\bin\Debug\netcoreapp2.0\MyIdentityServer4.runtimeconfig.json
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\bin\Debug\netcoreapp2.0\MyIdentityServer4.runtimeconfig.dev.json
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\bin\Debug\netcoreapp2.0\MyIdentityServer4.dll
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\bin\Debug\netcoreapp2.0\MyIdentityServer4.pdb
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\obj\Debug\netcoreapp2.0\MyIdentityServer4.csprojResolveAssemblyReference.cache
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\obj\Debug\netcoreapp2.0\MyIdentityServer4.csproj.CoreCompileInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\obj\Debug\netcoreapp2.0\MyIdentityServer4.AssemblyInfoInputs.cache
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\obj\Debug\netcoreapp2.0\MyIdentityServer4.AssemblyInfo.cs
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\obj\Debug\netcoreapp2.0\MyIdentityServer4.dll
+C:\Users\flaub\Documents\Projetos\myLab\MyIdentityServer4\MyIdentityServer4\obj\Debug\netcoreapp2.0\MyIdentityServer4.pdb
