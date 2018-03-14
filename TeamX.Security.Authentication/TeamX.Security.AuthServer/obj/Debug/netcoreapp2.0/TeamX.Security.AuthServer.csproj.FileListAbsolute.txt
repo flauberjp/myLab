@@ -1,0 +1,11 @@
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\bin\Debug\netcoreapp2.0\TeamX.Security.AuthServer.deps.json
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\bin\Debug\netcoreapp2.0\TeamX.Security.AuthServer.runtimeconfig.json
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\bin\Debug\netcoreapp2.0\TeamX.Security.AuthServer.runtimeconfig.dev.json
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\bin\Debug\netcoreapp2.0\TeamX.Security.AuthServer.dll
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\obj\Debug\netcoreapp2.0\TeamX.Security.AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\obj\Debug\netcoreapp2.0\TeamX.Security.AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\obj\Debug\netcoreapp2.0\TeamX.Security.AuthServer.AssemblyInfoInputs.cache
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\obj\Debug\netcoreapp2.0\TeamX.Security.AuthServer.AssemblyInfo.cs
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\bin\Debug\netcoreapp2.0\TeamX.Security.AuthServer.pdb
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\obj\Debug\netcoreapp2.0\TeamX.Security.AuthServer.dll
+C:\Users\Elmar\Documents\Projetos\myLab\TeamX.Security.Authentication\TeamX.Security.AuthServer\obj\Debug\netcoreapp2.0\TeamX.Security.AuthServer.pdb
