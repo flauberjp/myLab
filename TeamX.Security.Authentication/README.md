@@ -1,1 +1,1 @@
-Reference: A greate serie em 3 parts, here the 1st one: (IdentityServer4 in simple words: IdentityServer4 with .Net Core)[https://neelbhatt.com/2018/02/24/identityserver4-in-simple-words-identityserver4-with-net-core-part-i/]
+Reference: A greate serie em 3 parts, here the 1st one: [IdentityServer4 in simple words: IdentityServer4 with .Net Core](https://neelbhatt.com/2018/02/24/identityserver4-in-simple-words-identityserver4-with-net-core-part-i/)
