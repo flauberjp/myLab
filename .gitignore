@@ -1,4 +1,3 @@
-Pluralsight.aspNetCore.Auth.Web/.vs/
-NeelIdentitySample/.vs/
-NeelIdentitySample/NeelIdentitySample/bin
-NeelIdentitySample/NeelIdentitySample/obj
+**/.vs
+**/bin
+**/obj
