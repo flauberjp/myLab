@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using IdentityServer4QuickStart.MvcClient.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Authentication;
+using Newtonsoft.Json.Linq;
+using System.Net.Http;
 
 namespace IdentityServer4QuickStart.MvcClient.Controllers
 {
@@ -42,6 +44,18 @@ namespace IdentityServer4QuickStart.MvcClient.Controllers
         {
             await HttpContext.SignOutAsync("Cookies");
             await HttpContext.SignOutAsync("oidc");
+        }
+
+        public async Task<IActionResult> CallApiUsingUserAccessToken()
+        {
+            var accessToken = await HttpContext.GetTokenAsync("access_token");
+
+            var client = new HttpClient();
+            client.SetBearerToken(accessToken);
+            var content = await client.GetStringAsync("http://localhost:5001/identity");
+
+            ViewBag.Json = JArray.Parse(content).ToString();
+            return View("json");
         }
     }
 }
