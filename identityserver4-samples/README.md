@@ -1,0 +1,1 @@
+Ref: [Você ainda não conhece o IdentityServer4?](https://www.lambda3.com.br/2016/10/conhecendo-o-identityserver4-parte-1/)
