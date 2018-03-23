@@ -19,6 +19,7 @@ namespace identityserver4_samples.MvcClient
         }
 
         public IConfiguration Configuration { get; }
+        public object StandardScopes { get; private set; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
@@ -42,10 +43,8 @@ namespace identityserver4_samples.MvcClient
                         options.RequireHttpsMetadata = false;                        
 
                         options.ClientId = "mvc";                        
-                        options.ResponseType = "code id_token";                        
-
-                        options.Scope.Add("openid");
-                        options.Scope.Add("profile");
+                        options.ResponseType = "id_token";                                                
+                            
 
                         options.SaveTokens = true;
                     });

@@ -1,4 +1,5 @@
-﻿using IdentityServer4.Models;
+﻿using IdentityServer4;
+using IdentityServer4.Models;
 using IdentityServer4.Test;
 using System;
 using System.Collections.Generic;
@@ -48,7 +49,7 @@ namespace identityserver4_samples.IdentityServer
                         Username = "alice",
                         Password = "password",
 
-                        Claims = new List<Claim>
+                        Claims = new []
                         {
                             new Claim("name", "Alice"),
                             new Claim("website", "https://alice.com")
@@ -59,13 +60,13 @@ namespace identityserver4_samples.IdentityServer
                         SubjectId = "2",
                         Username = "bob",
                         Password = "password",
-
-                        Claims = new List<Claim>
+                        Claims = new []
                         {
-                            new Claim("name", "Bob"),
+                            new Claim("name", "bob"),
                             new Claim("website", "https://bob.com")
                         }
                     }
+                    
                 };
         }
     }
