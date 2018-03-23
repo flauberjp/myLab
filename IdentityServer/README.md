@@ -1,0 +1,1 @@
+Ref: [Introdução ao IdentityServer 4. Uma nova maneira de Autenticar e Autorizar no ASP.NET](https://rafaelcruz.azurewebsites.net/2017/05/30/introducao-ao-identityserver-4-uma-nova-maneira-de-autenticar-e-autorizar-no-asp-net/)
