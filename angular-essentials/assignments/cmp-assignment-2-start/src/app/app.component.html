@@ -1,0 +1,25 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<h1>Your Assignment</h1>
+<ol>
+  <li><input type="checkbox" checked>Create a new component => CartComponent</li>
+  <li><input type="checkbox" checked>Add a property to that component => 'items' which initially is an
+    empty array
+  </li>
+  <li><input type="checkbox" checked>Make 'items' bindable and set the value of items from outside (from
+    the AppComponent)
+  </li>
+  <li><input type="checkbox" checked>Set an initial array with ['Apples', 'Bananas', 'Cherries']</li>
+  <li><input type="checkbox" checked>Add a 'Add Item' button and an input field to your CartComponent</li>
+  <li><input type="checkbox" checked>Bind the input value to a property in the CartComponent
+     (Two-way binding) and add a click listener for the button</li>
+  <li><input type="checkbox">Emit a new event to which you may listen from the AppComponent on
+    every button click. Pass the entered value as a value with the event.
+  </li>
+  <li><input type="checkbox">Listen to the emitted event in your AppComponent and add the passed
+    data to your 'items' array.
+  </li>
+  <li><input type="checkbox">Output the array in the method where you add items by calling console.log(yourArray)</li>
+</ol>
+<hr>
+<app-cart [items]="rootItems" (itemAdded)="onItemWasAdded($event)"></app-cart>
+
