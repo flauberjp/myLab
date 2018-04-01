@@ -1,0 +1,19 @@
+{
+  "name": "JSLibsInATypeScriptApp",
+  "version": "1.0.0",
+  "description": "Ref: [JavaScript Libraries In A TypeScript Application, Revisited](https://www.thepolyglotdeveloper.com/2017/03/javascript-libraries-in-a-typescript-application-revisited/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/base-64": "^0.1.2",
+    "@types/node": "^9.6.1",
+    "@types/utf8": "^2.1.6",
+    "base-64": "^0.1.0",
+    "utf8": "^3.0.0"
+  }
+}
