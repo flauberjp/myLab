@@ -1,7 +1,14 @@
 <div>
   <ul class="nav nav-tabs">
-    <li role="presentation"><a href="#">All</a></li>
-    <li role="presentation"><a href="#">Light</a></li>
-    <li role="presentation"><a href="#">Dark</a></li>
+    <li class=" nav-item">
+      <a class="nav-link" [ngClass]="{active: chosenList === 'all'}" href="#" (click)="onChoose('all')">All</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" [ngClass]="{active: chosenList === 'Light'}" href="#" (click)="onChoose('Light')">Light</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" [ngClass]="{active: chosenList === 'Dark'}" href="#" (click)="onChoose('Dark')">Dark</a>
+    </li>
   </ul>
+  <app-list [characters]="getCharacters()" (sideAssigned)="onSideChosen($event)"></app-list>
 </div>
