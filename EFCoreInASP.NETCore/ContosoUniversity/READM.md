@@ -1,0 +1,1 @@
+Ref: [ASP.NET Core MVC with Entity Framework Core - Tutorial 1 of 10](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-2.1#create-an-aspnet-core-mvc-web-application)
