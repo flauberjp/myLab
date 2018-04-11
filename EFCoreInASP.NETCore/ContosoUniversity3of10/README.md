@@ -1,0 +1,1 @@
+Ref: [ASP.NET Core MVC with EF Core - Sort, Filter, Paging - 3 of 10](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/sort-filter-page?view=aspnetcore-2.1)
