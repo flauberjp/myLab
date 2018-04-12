@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ContosoUniversity.Model;
 using ContosoUniversity.Models;
-using ContosoUniversity3of10;
+using ContosoUniversity;
 
 namespace ContosoUniversity.Controllers
 {
