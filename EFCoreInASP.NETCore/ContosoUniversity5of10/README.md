@@ -1,0 +1,1 @@
+Ref: [ASP.NET Core MVC with EF Core - Data Model - 5 of 10](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/complex-data-model?view=aspnetcore-2.1)
