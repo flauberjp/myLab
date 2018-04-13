@@ -1,0 +1,1 @@
+Ref: [ASP.NET Core MVC with EF Core - Read Related Data - 6 of 10](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/read-related-data?view=aspnetcore-2.1)
