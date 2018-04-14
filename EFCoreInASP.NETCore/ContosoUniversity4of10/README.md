@@ -1,0 +1,1 @@
+Ref: [ASP.NET Core MVC with EF Core - Migrations - 4 of 10](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/migrations?view=aspnetcore-2.1)

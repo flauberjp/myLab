@@ -1,0 +1,1 @@
+Ref: [Entity Framework Visual Editor](https://marketplace.visualstudio.com/items?itemName=michaelsawczyn.EFDesigner#overview)

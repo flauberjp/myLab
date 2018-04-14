@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingDotNetPortability", "TestingDotNetPortability\TestingDotNetPortability.csproj", "{2DB0C918-6134-4259-B767-7498DB565CD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingDotNetPortability", "TestingDotNetPortability\TestingDotNetPortability.csproj", "{C2BB1B12-96F2-40AB-9DBC-C5C0F28D9720}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2DB0C918-6134-4259-B767-7498DB565CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DB0C918-6134-4259-B767-7498DB565CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DB0C918-6134-4259-B767-7498DB565CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DB0C918-6134-4259-B767-7498DB565CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BB1B12-96F2-40AB-9DBC-C5C0F28D9720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BB1B12-96F2-40AB-9DBC-C5C0F28D9720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BB1B12-96F2-40AB-9DBC-C5C0F28D9720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BB1B12-96F2-40AB-9DBC-C5C0F28D9720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E9DD6339-6B34-4823-BA99-9D54AF751A5A}
+		SolutionGuid = {36F73D58-F361-47C0-8796-942E261B94AC}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,1 @@
+Ref: [Create an ASP.NET Core Application Using Visual Studio Code](https://www.c-sharpcorner.com/article/create-asp-net-core-application-using-visual-studio-code/)

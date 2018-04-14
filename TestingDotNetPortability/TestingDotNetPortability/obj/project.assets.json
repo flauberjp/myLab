@@ -664,26 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\flaub\\.nuget\\packages\\": {},
+    "C:\\Users\\Elmar\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\flaub\\Documents\\Projetos\\TestingDotNetPortability\\TestingDotNetPortability\\TestingDotNetPortability.csproj",
+      "projectUniqueName": "C:\\Users\\Elmar\\Documents\\Projetos\\myLab\\TestingDotNetPortability\\TestingDotNetPortability\\TestingDotNetPortability.csproj",
       "projectName": "TestingDotNetPortability",
-      "projectPath": "C:\\Users\\flaub\\Documents\\Projetos\\TestingDotNetPortability\\TestingDotNetPortability\\TestingDotNetPortability.csproj",
-      "packagesPath": "C:\\Users\\flaub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flaub\\Documents\\Projetos\\TestingDotNetPortability\\TestingDotNetPortability\\obj\\",
+      "projectPath": "C:\\Users\\Elmar\\Documents\\Projetos\\myLab\\TestingDotNetPortability\\TestingDotNetPortability\\TestingDotNetPortability.csproj",
+      "packagesPath": "C:\\Users\\Elmar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elmar\\Documents\\Projetos\\myLab\\TestingDotNetPortability\\TestingDotNetPortability\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\flaub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -708,6 +705,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

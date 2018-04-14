@@ -1,8 +1,35 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Context\Custom\" />
+    <Folder Include="Context\Generated\" />
+    <Folder Include="Entities\Custom\" />
+    <Folder Include="Entities\Generated\" />
+    <Folder Include="Enums\Custom\" />
+    <Folder Include="Enums\Generated\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="MyModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>MyModel.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="MyModel.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>MyModel.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
 
 </Project>
