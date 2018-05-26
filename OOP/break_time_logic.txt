@@ -1,0 +1,5 @@
+Step 1: An option to start the counter is shown for the user, like there is a button that when clicked starts it
+Step 2: The user press the start button, starting the counting
+Step 3: After two hours the counter stops
+Step 4: A youtube video is opened on a browser
+Step 5: Repeat(go to step 1)
