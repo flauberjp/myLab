@@ -1,0 +1,7 @@
+Steps to create a "Check Profanity" program:
+
+Step 1: We are going to process a text file, so we call our program and pass the path of the file as a parameter
+
+Step 2: The program reads the file and compare each work against a list of the words we consider profane
+
+Step 3: For each profane work, we notify the user which word is, and its location(line and column), so he could act on it with this info
