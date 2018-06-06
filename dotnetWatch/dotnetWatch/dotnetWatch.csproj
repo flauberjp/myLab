@@ -18,6 +18,6 @@
 
   <ItemGroup>  
     <!-- extends watching group to include all files -->
-    <Watch Include="**/*.*" />
+    <Watch Include="**/*.*" Exclude="**/DELETE_ME.html"/>
   </ItemGroup>
 </Project>

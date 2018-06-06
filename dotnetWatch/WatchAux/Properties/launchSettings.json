@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WatchAux": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\flaub\\Documents\\Projetos\\myLab\\dotnetWatch\\dotnetWatch"
+    }
+  }
+}
