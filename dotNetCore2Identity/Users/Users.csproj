@@ -5,11 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Controllers\HomeController.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Remove="Views\Home\Index.cshtml" />
+    <Content Remove="Views\Home\index.cshtml" />
     <Content Remove="Views\_ViewImports.cshtml" />
     <Content Remove="Views\_ViewStart.cshtml" />
   </ItemGroup>
@@ -25,8 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Controllers\HomeController.cs" />
-    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\index.cshtml" />
     <None Include="Views\_ViewStart.cshtml" />
     <None Include="Views\_ViewImports.cshtml" />
   </ItemGroup>

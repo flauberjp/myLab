@@ -24,7 +24,13 @@ namespace Users
             app.UseStatusCodePages();
             app.UseDeveloperExceptionPage();
             app.UseStaticFiles();
-            app.UseMvcWithDefaultRoute();
+            // app.UseMvcWithDefaultRoute();
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute(
+                    name: "default",
+                    template: "{controller=Home}/{action=Index}/{id?}");
+            });
         }
     }
 }
