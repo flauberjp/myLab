@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Views\Admin\Create.cshtml" />
+    <Content Remove="Views\Admin\index.cshtml" />
     <Content Remove="Views\Home\index.cshtml" />
     <Content Remove="Views\_ViewImports.cshtml" />
   </ItemGroup>
@@ -20,6 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Views\Admin\Create.cshtml" />
+    <None Include="Views\Admin\Index.cshtml" />
     <None Include="Views\Home\index.cshtml" />
     <None Include="Views\_ViewImports.cshtml" />
   </ItemGroup>
