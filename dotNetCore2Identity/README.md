@@ -1,0 +1,2 @@
+Ref.: [Practice from book 'Pro ASP.NET Core MVC 2', chapter '28. Getting Started with Identity'](https://www.amazon.com/Pro-ASP-NET-Core-MVC-2-ebook/product-reviews/B076SPVBXW)
+Others: [Webpack fails to load bootstrap v4.0.0-beta](https://stackoverflow.com/questions/45660672/webpack-fails-to-load-bootstrap-v4-0-0-beta)
