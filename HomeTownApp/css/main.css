@@ -1,3 +1,8 @@
+* {
+  min-width: 48px;
+  min-height: 48px;
+}
+
 body, html {
   margin: 0;
   padding: 0;
@@ -14,6 +19,7 @@ body {
 h1, h2, h3, h4, h5 {
   margin: 0; 
 }
+
 
 header, nav, footer, section, article, div {
   box-sizing: border-box;
@@ -53,7 +59,7 @@ ul {
 }
 
 .header__inner {
-  width: 800px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -81,7 +87,7 @@ ul {
  */
 
 .nav {
-  width: 800px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -121,7 +127,7 @@ ul {
 
 main {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
-  width: 800px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -140,12 +146,12 @@ main {
  */
 
 .hero {
-  float: left;
-  width: 480px;
+  float: none;
+  width: 100%;
   position: relative;
-  background-image: url("./images/dog.jpg");
+  background-image: url("../images/dog.jpg");
   background-size: cover;
-  height: 300px;
+  min-height: 300px;
 }
 
 .hero article {
@@ -154,7 +160,7 @@ main {
   background-color: rgba(0, 0, 0, 0.7);
   position: absolute;
   bottom: 0;
-  height: 40%;
+  min-height: 40%;
   width: 100%;
   color: #fff;
   padding: 1em;
@@ -168,9 +174,9 @@ main {
  */
 
 .top-news {
-  float: right;
-  width: 320px;
-  height: 300px;
+  float: none;
+  width: 100%;
+  height: auto;
   border-bottom: 1px solid #E0E0E0;
   padding: 1em;
 }
@@ -212,9 +218,9 @@ main {
  * Sport Scores
  *
  */
-
 .scores {
-  width: 480px;
+  overflow-x: auto;
+  width: 100%;
   float: left;
   padding-top: 1em;
 }
@@ -263,8 +269,8 @@ main {
  */
 
 .weather {
-  float: right;
-  width: 320px;
+  float: none;
+  width: 100%;
   padding: 1em;
 }
 
