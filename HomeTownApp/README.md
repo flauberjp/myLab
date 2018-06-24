@@ -1,1 +1,1 @@
-Practice 'Quiz: Project Part 1' from 'Starting Small Lesson 17 ' from Full Stack Nanodegree course from Udacity, where I "play" with responsiveness.
+Stuff from _Comomn Responsive Patterns_  from _Full Stack Nanodegree_ course from Udacity, where I "play" with responsiveness.
