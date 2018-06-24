@@ -1,0 +1,1 @@
+Ref. [Adding ASP.NET Core Identity to an Existing Project](https://hanson.io/bootstrapping-asp-net-core-week-4/)
