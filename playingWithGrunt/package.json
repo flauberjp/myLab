@@ -1,0 +1,11 @@
+{
+    "name": "playingWithGrunt",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-concat": "^1.0.1",
+        "grunt-contrib-imagemin": "^2.0.1",
+        "grunt-contrib-uglify": "^3.3.0",
+        "grunt-contrib-watch": "^1.1.0"
+    }
+}
