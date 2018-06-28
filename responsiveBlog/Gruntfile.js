@@ -11,6 +11,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     responsive_images: {
       dev: {
+         
         options: {
           rename: false,
           engine: 'gm',
@@ -19,6 +20,16 @@ module.exports = function(grunt) {
             width: 800
           }]
         },
+        /*
+        options: {
+          engine: 'gm',
+          sizes: [{
+            width: 1600,
+            suffix: '_large_2x',
+            quality: 30
+          }]
+        },
+        */
 
         /*
         You don't need to change this part if you don't change
@@ -65,6 +76,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-mkdir');
-  grunt.registerTask('default', ['clean', 'mkdir', 'copy', 'responsive_images']);
+  grunt.registerTask('default', [/*'clean',*/ 'mkdir', 'copy', 'responsive_images']);
 
 };
