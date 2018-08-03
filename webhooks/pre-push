@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "executing post-commit"
+start /MIN curl http://192.168.25.82:8000/atualiza
+exit 0
