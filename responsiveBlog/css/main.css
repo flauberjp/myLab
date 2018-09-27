@@ -1,28 +1,18 @@
-/*
-
-Your styles go here!
-
-Hint! You'll probably want to start by styling:
-  * <body>
-  * <article>
-  * <h1>
-  * <img>
-
-I've left some boilerplate below for you.
-
-*/
+@import url(http://weloveiconfonts.com/api/?family=zocial);
 
 body {
 
 }
 
 article {
-
+  max-width: 50em;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 
 h1 {
-
+  display: inline;
 }
 
 img {
