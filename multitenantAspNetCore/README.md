@@ -1,0 +1,1 @@
+Ref: [Aplicações MultiTenant no ASP.NET Core 2.0 utilizando o SaaSKit](https://imasters.com.br/dotnet/aplicacoes-multitenant-no-asp-net-core-2-0-utilizando-o-saaskit)
