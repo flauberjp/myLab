@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d195e8f4-3dcf-46d4-a350-6b4da707b0c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PersistentBugger/PersistentBugger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T986.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T986.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T988.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T988.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T989.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T989.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T990.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T990.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T991.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T991.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T992.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T992.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T993.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T993.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T994.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T994.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T995.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T995.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T996.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T996.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T997.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T997.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste998.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Teste998.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste999.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Teste999.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Flaviano Flauber\Documents\Projetos\myLab\javaPlayground\guru.springframework\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xir7JQv56l29Vfe32naDtSUzjk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d195e8f4-3dcf-46d4-a350-6b4da707b0c4" name="Default Changelist" comment="" />
+      <created>1581539587911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581539587911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1581545299745">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581545299745" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1581545299745">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581545299745" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1581545299745">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581545299745" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1581545299745">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581545299745" />
+  </component>
+</project>

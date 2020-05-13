@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbba13b4-bbe7-496a-9677-6750d57e4d60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../javaPlayground/PersistentBugger/PersistentBugger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T986.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T986.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T988.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T988.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T989.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T989.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T990.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T990.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T991.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T991.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T992.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T992.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T993.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T993.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T994.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T994.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T995.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T995.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T996.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T996.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/T997.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/T997.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/Teste998.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/Teste998.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaPlayground/Teste999.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaPlayground/Teste999.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="projectLombok" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Flaviano Flauber\Documents\Projetos\myLab\springframeworkguru\projectLombok\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YP4NHOcuKxFQ5l9T6Cda43e5f4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES,SHOW_INHERITED,SHOW_ANONYMOUS,SHOW_LAMBDA" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbba13b4-bbe7-496a-9677-6750d57e4d60" name="Default Changelist" comment="" />
+      <created>1582830853970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582830853970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1582834690899">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1582834690899" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1582834690899">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1582834690899" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1582834690899">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1582834690899" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1582834690899">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1582834690899" />
+    <state x="142" y="4" key="SettingsEditor" timestamp="1582832667800">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="4" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1582832667800" />
+    <state x="91" y="64" key="new project wizard" timestamp="1582834687952">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="91" y="64" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1582834687952" />
+  </component>
+</project>

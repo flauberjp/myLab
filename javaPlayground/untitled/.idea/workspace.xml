@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41c5a17e-db68-48c4-bc5d-d1f355de8d1a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T986.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T986.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T988.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T988.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T989.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T989.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T990.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T990.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T991.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T991.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T992.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T992.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T993.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T993.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T994.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T994.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T995.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T995.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T996.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T996.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T997.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T997.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste998.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste998.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste999.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste999.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Flaviano Flauber\Documents\Projetos\myLab\javaPlayground\untitled\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlLu9P8jSH8gKKuJxXAaPVD4qC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41c5a17e-db68-48c4-bc5d-d1f355de8d1a" name="Default Changelist" comment="" />
+      <created>1585408953341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585408953341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="199" key="#Plugins" timestamp="1585410130316">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="199" key="#Plugins/-1879.0.1239.720/62.0.1858.1080@62.0.1858.1080" timestamp="1585410130316" />
+    <state x="583" y="199" key="#Project_Structure" timestamp="1585414575809">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="199" key="#Project_Structure/-1879.0.1239.720/62.0.1858.1080@62.0.1858.1080" timestamp="1585414575809" />
+    <state x="807" y="319" key="chooseDestDirectoryDialog" timestamp="1585415040862">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="807" y="319" key="chooseDestDirectoryDialog/-1879.0.1239.720/62.0.1858.1080@62.0.1858.1080" timestamp="1585415040862" />
+    <state x="373" y="243" key="new project wizard" timestamp="1585415257662">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="373" y="243" key="new project wizard/-1879.0.1239.720/62.0.1858.1080@62.0.1858.1080" timestamp="1585415257662" />
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1585408975044">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/-1879.0.1239.720/62.0.1858.1080@62.0.1858.1080" timestamp="1585408975044" />
+  </component>
+</project>
