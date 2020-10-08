@@ -17,13 +17,17 @@ class App extends Component {
   };
 
   render() {
+    const style = {
+      backgroundColor: "blue",
+    };
+
     return (
       <div className="App">
         <UserInput
           name={this.state.inputValue}
           changed={this.inputValueChangeHandler}
         ></UserInput>
-        <UserOutput username={this.state.inputValue} />
+        <UserOutput style={style} username={this.state.inputValue} />
         <UserOutput />
       </div>
     );
