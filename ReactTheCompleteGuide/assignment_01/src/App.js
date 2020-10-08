@@ -1,17 +1,33 @@
-import React from "react";
+import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import UserInput from "./UserInput/UserInput";
 import UserOutput from "./UserOutput/UserOutput";
 
-function App() {
-  return (
-    <div className="App">
-      <UserInput></UserInput>
-      <UserOutput />
-      <UserOutput />
-    </div>
-  );
+class App extends Component {
+  state = {
+    inputValue: "initial value",
+  };
+
+  inputValueChangeHandler = (event) => {
+    console.log(event.target.value);
+    this.setState({
+      inputValue: event.target.value,
+    });
+  };
+
+  render() {
+    return (
+      <div className="App">
+        <UserInput
+          name={this.state.inputValue}
+          changed={this.inputValueChangeHandler}
+        ></UserInput>
+        <UserOutput username={this.state.inputValue} />
+        <UserOutput />
+      </div>
+    );
+  }
 }
 
 export default App;
