@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import ValidationComponent from "./ValidationComponent/ValidationComponent";
 import "./App.css";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <div className="App">
       <input onChange={onChangeHandler} type="text" />
       <p>Length of the entered text: {textLength}</p>
+      <ValidationComponent textLength={textLength} />
     </div>
   );
 }
